@@ -8,7 +8,7 @@
   "server": {
     "ip": "berraSMP.aternos.me",
     "port": 31136,
-    "version": "",
+    "version": "1.21.5",
     "try-creative": false
   },
   "position": {
