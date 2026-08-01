@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "imjustchillinginhere",
     "password": "",
     "type": "offline"
   },
@@ -13,7 +13,7 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 100,
     "y": 100,
     "z": 0
   },
